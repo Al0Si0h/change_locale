@@ -1,2 +1,3 @@
-# change_locale
-change_locale
+简易的脚本用来修改系统字符编码解决乱码问题
+debian 10/11/12 √
+
